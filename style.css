@@ -1,0 +1,27 @@
+/***************Html Attribute*******************/
+body{
+  background-color: #CCF3EE;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 15%;
+}
+/***************Class Attribute*******************/
+.heading{
+  color: #37E2D5;
+  font-size: 250%;
+}
+.heading1{
+  color: #37E2D5;
+  font-size: 175%;
+}
+.color{
+  background-color: #e2fbf9;
+}
+.imgsize{
+  width: 30px;
+  height: 30px;
+}
